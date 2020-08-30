@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"React",
+				"ReactDOM"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"preferences",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"ESLint"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Babel ",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nickchen/Downloads/SYLLABUS-202010-12614 (2).dat",
+		"/Users/nickchen/Desktop/newProj/my-app/src/1App.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/App.js",
+		"/Users/nickchen/Desktop/CP C++ (sublime setup)/output.txt",
+		"/Users/nickchen/Desktop/CP C++ (sublime setup)/input.txt",
+		"/Users/nickchen/Desktop/CP C++ (sublime setup)/a.cpp",
+		"/Users/nickchen/Desktop/newProj/my-app/src/TodoData.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/TodoItem.js",
+		"/Users/nickchen/Downloads/flex_ddG_tutorial/analyze_flex_ddG.py",
+		"/Users/nickchen/Downloads/flex_ddG_tutorial/demo.txt",
+		"/Users/nickchen/Library/Jupyter/runtime/nbserver-4413-open.html",
+		"/Users/nickchen/Desktop/gatherx_launcher/src/App.js",
+		"/Users/nickchen/Desktop/gatherx_launcher/src/components/Navbar.js",
+		"/Users/nickchen/Desktop/gatherx_launcher/src/components/Links.js",
+		"/Users/nickchen/Desktop/gatherx_launcher/electron/main.js",
+		"/Users/nickchen/Desktop/gatherx_launcher/src/index.css",
+		"/Users/nickchen/Desktop/stdc++.h",
+		"/Users/nickchen/Desktop/gatherx_launcher/src/index.js",
+		"/Users/nickchen/Desktop/gatherx_launcher/package.json",
+		"/Users/nickchen/Desktop/gatherx_launcher/electron-starter.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/vschoolProducts.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/Product.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/jokeData.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/Joke.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/ContactCard.js",
+		"/Users/nickchen/Desktop/CP C++/output.txt",
+		"/Users/nickchen/Desktop/CP C++/input.txt",
+		"/Users/nickchen/Desktop/CP C++/a.cpp",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/ToDo.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/Draggable.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/index.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/ToDo",
+		"/Users/nickchen/Desktop/newProj/my-app/public/style.css",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/Item.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/style.css",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/Header.js",
+		"/Users/nickchen/Desktop/newProj/my-app/public/index.html",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/MainContent.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/Footer.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/Navbar.js",
+		"/Users/nickchen/Desktop/newProj/my-app/src/components/App.js",
+		"/Users/nickchen/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/nickchen/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/nickchen/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/nickchen/Desktop/newProj/my-app/index.js",
+		"/Users/nickchen/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/nickchen/Desktop/newProj/README.md",
+		"/Users/nickchen/Desktop/newProj/my-app/src/index.css",
+		"/Users/nickchen/Desktop/newProj/style.css",
+		"/Users/nickchen/Desktop/newProj/index.html",
+		"/Users/nickchen/Desktop/newProj/index.js",
+		"/Users/nickchen/Desktop/testProject/config.eslintrc",
+		"/Users/nickchen/Desktop/testProject/index.html",
+		"/Users/nickchen/Downloads/vuln.c",
+		"/Users/nickchen/Desktop/my-app/src/index.js",
+		"/Users/nickchen/Desktop/my-app/src/render.js",
+		"/Users/nickchen/Desktop/my-app/src/index.html",
+		"/Users/nickchen/Desktop/my-app/src/index.css",
+		"/Users/nickchen/Desktop/Oxbow_Training/README.md",
+		"/Users/nickchen/Downloads/in-quiz-questions-master/java/java-quiz.md",
+		"/Users/nickchen/Downloads/DarkProcessingTheme_3.0-master/README.md",
+		"/Users/nickchen/Downloads/Soundflower-master/ReadMe.md",
+		"/Users/nickchen/Desktop/CP/ProblemSets/D.kt",
+		"/Users/nickchen/Desktop/CP/ProblemSets/a.java",
+		"/Users/nickchen/Downloads/mousetrap-os-master/plugins/mousetrap_response/mousetrap_response.py",
+		"/private/var/folders/3_/j5c60z8s5tg019tth0vhrqlm0000gn/T/tmpuYX47h.opensesame_pool/coords.csv",
+		"/Users/nickchen/Desktop/MousePass/TestExperiment_project_resources/coords.csv",
+		"/Applications/OpenSesame.app/Contents/Resources/lib/python2.7/site-packages/mediadecoder/soundrenderers/sounddevicerenderer.py",
+		"/Users/nickchen/Downloads/mousetrap-os-master/examples/README.md",
+		"/Users/nickchen/Downloads/mousetrap-os-master/README.md",
+		"/Users/nickchen/Desktop/Rice SASE Resources/SASE Site/index.html",
+		"/Users/nickchen/Desktop/Rice SASE Resources/SASE Site/js/main.js",
+		"/Users/nickchen/Desktop/Rice SASE Resources/SASE Site/about.html",
+		"/Users/nickchen/Desktop/Oxbow Training Demo/Assets/Scripts/PlayerLook.cs",
+		"/Users/nickchen/Desktop/oVRn/Assets/Scripts/CameraMove.cs",
+		"/Users/nickchen/Desktop/Oxbow Training Demo/Assets/Scripts/PickUpMesh.cs",
+		"/Users/nickchen/Desktop/Oxbow Training Demo/Assets/Scripts/PickUpCapsule.cs",
+		"/Users/nickchen/Desktop/Oxbow Training Demo/Assets/MainMenu.cs",
+		"/Users/nickchen/Desktop/Oxbow Training Demo/Assets/Scripts/PickUp.cs",
+		"/Users/nickchen/Desktop/Oxbow Training Demo/Assets/Scripts/PlayerMove.cs",
+		"/Users/nickchen/Desktop/C++Programs/prime_generator.cpp",
+		"/Users/nickchen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nickchen/Desktop/C++Programs/ctrial.cpp",
+		"/Users/nickchen/Desktop/Rice SASE Resources/SASE Site/css/style.css",
+		"/Users/nickchen/Downloads/spring/about.html",
+		"/Users/nickchen/Downloads/spring/index.html",
+		"/Users/nickchen/Downloads/spring/css/flaticon.css",
+		"/Users/nickchen/Documents/GitHub/mPFinal2/venv/lib/python2.7/site-packages/keras_applications/resnet_v2.py",
+		"/Users/nickchen/Documents/p5/mousePassJS/script.js",
+		"/Users/nickchen/Documents/p5/mousePassJS/index.html",
+		"/Users/nickchen/Desktop/cors-json-file.json",
+		"/Users/nickchen/Documents/GitHub/mPFinal2/venv/lib/python2.7/site-packages/scipy/optimize/_shgo.py",
+		"/Users/nickchen/Documents/p5/mousePassJS/test.json",
+		"/Users/nickchen/Documents/p5/empty-example/index.html",
+		"/Users/nickchen/Desktop/test.py",
+		"/Users/nickchen/Documents/GitHub/MousePass/mouspass_loaded_weights.py",
+		"/Users/nickchen/eclipse-workspace/MousePass/mouspass_loaded_weights.py",
+		"/Users/nickchen/Documents/GitHub/MousePass/MousePass.java",
+		"/Users/nickchen/Documents/GitHub/MousePass/README.md",
+		"/Users/nickchen/eclipse-workspace/MousePass/testy.py",
+		"/Users/nickchen/eclipse-workspace/MousePass/test.py",
+		"/Users/nickchen/Desktop/MousePass/MousePass.java",
+		"/Users/nickchen/Documents/GitHub/MousePass/mouspass.py",
+		"/Users/nickchen/Desktop/MousePass/mouspass.py",
+		"/Users/nickchen/Desktop/MousePass/mousepass2.py",
+		"/Users/nickchen/Desktop/class.py",
+		"/Users/nickchen/Desktop/MousePass/NN/classifier.py",
+		"/Users/nickchen/Desktop/Fahrenheit 212/test.py",
+		"/Users/nickchen/Documents/GitHub/models/tutorials/image/imagenet/classify_image.py",
+		"/Users/nickchen/Downloads/109311bb0361f32d87a2-8254b53ab8dcb18afc64287aaddd9e5b6059f880/README-Template.md",
+		"/Users/nickchen/Documents/shit.py",
+		"/Users/nickchen/Desktop/txtbot/app.py",
+		"/Users/nickchen/Desktop/txtbot/big.txt",
+		"/Users/nickchen/Desktop/txtbot/severyAPI/rice-dining-master/lib/rice/dining.rb",
+		"/Users/nickchen/Desktop/txtbot/severyAPI/getDining.rb",
+		"/Users/nickchen/Desktop/txtbot/severyAPI/rice-dining-master/bin/rice-dining",
+		"/Users/nickchen/Desktop/txtbot/severyAPI/rice-dining-master/lib/rice/dining/version.rb",
+		"/Users/nickchen/Desktop/txtbot/Gemfile.lock",
+		"/Users/nickchen/Desktop/txtbot/Gemfile",
+		"/Users/nickchen/Desktop/logs.txt",
+		"/Users/nickchen/Desktop/txtbot(fucked)/app.py",
+		"/Users/nickchen/Downloads/heroku-buildpack-ruby-master/Gemfile",
+		"/Users/nickchen/Desktop/app.py",
+		"/Users/nickchen/Desktop/hellp.py",
+		"/Users/nickchen/Desktop/spellchecker.py",
+		"/Users/nickchen/Desktop/Hack Rice/app.py",
+		"/Users/nickchen/Desktop/Hack Rice/messenger-bot.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/newProj/my-app/src/components/Navbar.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

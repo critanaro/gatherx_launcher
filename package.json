@@ -1,23 +1,75 @@
 {
   "name": "gatherx_launcher",
+  "homepage": "./",
+  "main": "electron/main.js",
   "version": "0.1.0",
   "private": true,
+  "productName": "GatherX Launcher",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "bcrypt": "^5.0.0",
+    "child_process": "^1.0.2",
+    "concurrently": "^5.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "electron-is-dev": "^1.2.0",
+    "electron-log": "^4.2.4",
+    "express": "^4.17.1",
+    "fix-path": "^3.0.0",
+    "fs": "0.0.1-security",
+    "gridfs-stream": "^1.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.0",
+    "node": "^14.8.0",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-google-login": "^5.1.21",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "url": "^0.11.0",
+    "wait-on": "^5.2.0",
+    "x-ray": "^2.3.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "ebuild": "npm run build && node_modules/.bin/build",
+    "electron-start": "electron .",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "build": "react-scripts build",
+    "electron-pack": "build --em.main=build/main.js",
+    "start": "export BROWSER=none && react-scripts start",
+    "start-win": "set BROWSER=none && react-scripts start",
+    "start-electron": "export ELECTRON_START_URL=http://localhost:3000 && electron .",
+    "start-electron-win": "set ELECTRON_START_URL=http://localhost:3000 && electron .",
+    "build-electron": "mkdir build/src && cp -r electron/. build/electron",
+    "build-electron-win": "mkdir build\\src && Xcopy /E /I /Y electron build\\electron",
+    "package": "npm run build && npm run build-electron && electron-builder build -w -c.extraMetadata.main=build/electron/main.js --publish never",
+    "package-win": "npm run build && npm run build-electron-win && electron-builder build -c.extraMetadata.main=build/electron/main.js --publish never",
+    "dist-all": "electron-builder -mw"
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "build": {
+    "appId": "com.example.electron-react",
+    "productName": "electron-react",
+    "files": [
+      "build/**/*",
+      "node_modules/**/*"
+    ],
+    "asar": false
+  },
+  "nsis": {
+    "allowToChangeInstallationDirectory": true,
+    "oneClick": false,
+    "perMachine": true,
+    "uninstallDisplayName": "/Uninstaller Name"
   },
   "browserslist": {
     "production": [
@@ -30,5 +82,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "electron": "^9.2.1",
+    "electron-builder": "^22.8.0",
+    "electron-packager": "^15.1.0"
   }
 }
